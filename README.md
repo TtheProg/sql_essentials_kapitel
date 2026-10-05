@@ -2,8 +2,10 @@
 
 ## Idee
 
-Material vom Kurs zu SQL, inkl meinen Lösungen zu den Challenges
+Material vom **Kurs zu SQL**, inkl meinen Lösungen zu den Challenges
 
 ## Struktur
 
-Verschiedene Ordner
+- challenges
+- code_alongs
+- README.md
